@@ -1,0 +1,17 @@
+"brand","total_revenue","total_orders"
+Overstock,220392.97,168
+Ashley Furniture,208714.57,152
+World Market,204412.63,160
+Target,199745.71,143
+CB2,199212.56,154
+IKEA,194711.43,154
+Urban Outfitters,193460.99,149
+HomeGoods,192746.79,165
+West Elm,191679.18,153
+Crate & Barrel,190915.92,146
+
+
+-- Product metrics visualisation
+
+-- https://public.tableau.com/app/profile/dmytro.ruzhytskyi/viz/Productmetrics/ProductMetrics
+
